@@ -1,0 +1,1 @@
+Source code that simulates the re-entry of spacecraft from lower Earth Orbit given the mass of the spacecraft. The reentry is modelled in non linear second order differential equations which is solved using euler's method.
